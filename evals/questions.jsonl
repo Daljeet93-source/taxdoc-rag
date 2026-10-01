@@ -1,0 +1,28 @@
+{"id": "q01", "question": "What is the total payable on invoice INV-1042?", "answerable": true, "expected": ["3,135.00"], "source": "invoice_INV-1042.pdf", "page": 1}
+{"id": "q02", "question": "How much GST was charged on invoice INV-1057?", "answerable": true, "expected": ["304.00"], "source": "invoice_INV-1057.pdf", "page": 1}
+{"id": "q03", "question": "When is invoice INV-1042 due?", "answerable": true, "expected": ["15 July 2026"], "source": "invoice_INV-1042.pdf", "page": 1}
+{"id": "q04", "question": "How many advisory meeting hours were billed to Koala Freight Logistics, and at what hourly rate?", "answerable": true, "expected": ["3", "220.00"], "source": "invoice_INV-1057.pdf", "page": 1}
+{"id": "q05", "question": "What was billed for BAS preparation on the Bluegum Cafe invoice?", "answerable": true, "expected": ["550.00"], "source": "invoice_INV-1042.pdf", "page": 1}
+{"id": "q06", "question": "What was Priya Raman's gross salary for July 2026?", "answerable": true, "expected": ["7,500.00"], "source": "payslip_2026-07_priya_raman.pdf", "page": 1}
+{"id": "q07", "question": "How much PAYG tax was withheld from Priya Raman's July pay?", "answerable": true, "expected": ["1,688.00"], "source": "payslip_2026-07_priya_raman.pdf", "page": 1}
+{"id": "q08", "question": "What is Priya Raman's net pay for July 2026?", "answerable": true, "expected": ["5,562.00"], "source": "payslip_2026-07_priya_raman.pdf", "page": 1}
+{"id": "q09", "question": "Which super fund receives Priya Raman's superannuation?", "answerable": true, "expected": ["Southern Cross"], "source": "payslip_2026-07_priya_raman.pdf", "page": 1}
+{"id": "q10", "question": "How many days of annual leave does Priya Raman have left?", "answerable": true, "expected": ["11.5"], "source": "payslip_2026-07_priya_raman.pdf", "page": 1}
+{"id": "q11", "question": "How much did Bluegum Cafe pay ShieldCover for insurance in July 2026?", "answerable": true, "expected": ["1,240.00"], "source": "bank_statement_bluegum_2026-07.pdf", "page": 1}
+{"id": "q12", "question": "What was Bluegum Cafe's closing bank balance at 31 July 2026?", "answerable": true, "expected": ["22,854.02"], "source": "bank_statement_bluegum_2026-07.pdf", "page": 2}
+{"id": "q13", "question": "On what date did Bluegum Cafe pay Harbourline invoice INV-1042?", "answerable": true, "expected": ["16/07/2026", "16 July"], "match": "any", "source": "bank_statement_bluegum_2026-07.pdf", "page": 1}
+{"id": "q14", "question": "How much was the bank fee on the Bluegum Cafe July statement?", "answerable": true, "expected": ["15.00"], "source": "bank_statement_bluegum_2026-07.pdf", "page": 2}
+{"id": "q15", "question": "How many business days do clients have to upload documents for an annual return?", "answerable": true, "expected": ["10"], "source": "policy_client_engagement_v3.2.pdf", "page": 1}
+{"id": "q16", "question": "Above what annual turnover must a business return also be reviewed by a director?", "answerable": true, "expected": ["2,000,000"], "source": "policy_client_engagement_v3.2.pdf", "page": 1}
+{"id": "q17", "question": "What is the standard fee for a sole trader return?", "answerable": true, "expected": ["770"], "source": "policy_client_engagement_v3.2.pdf", "page": 1}
+{"id": "q18", "question": "How long are client working papers kept?", "answerable": true, "expected": ["7 years"], "source": "policy_client_engagement_v3.2.pdf", "page": 1}
+{"id": "q19", "question": "What is needed when a return claims a single deduction above $50,000?", "answerable": true, "expected": ["file note"], "source": "policy_client_engagement_v3.2.pdf", "page": 1}
+{"id": "q20", "question": "What is the daily limit for meals while travelling?", "answerable": true, "expected": ["95"], "source": "guide_staff_expenses_2026.pdf", "page": 1}
+{"id": "q21", "question": "Who approves accommodation expense claims?", "answerable": true, "expected": ["Director"], "source": "guide_staff_expenses_2026.pdf", "page": 1}
+{"id": "q22", "question": "Within how many days must staff submit an expense claim?", "answerable": true, "expected": ["30"], "source": "guide_staff_expenses_2026.pdf", "page": 1}
+{"id": "q23", "question": "What was Priya Raman's gross salary for June 2026?", "answerable": false, "expected": [], "source": null, "page": null}
+{"id": "q24", "question": "What is the total payable on invoice INV-1050?", "answerable": false, "expected": [], "source": null, "page": null}
+{"id": "q25", "question": "What interest rate does Harbourline charge on overdue invoices?", "answerable": false, "expected": [], "source": null, "page": null}
+{"id": "q26", "question": "What is the limit for an overseas travel allowance?", "answerable": false, "expected": [], "source": null, "page": null}
+{"id": "q27", "question": "Which director countersigned Bluegum Cafe's engagement letter?", "answerable": false, "expected": [], "source": null, "page": null}
+{"id": "q28", "question": "How much did Koala Freight Logistics pay Harbourline in July 2026?", "answerable": false, "expected": [], "source": null, "page": null}
